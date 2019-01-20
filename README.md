@@ -21,4 +21,4 @@ After cloning to your local machine, run npm install to install the required nod
 
 ### Hosted on Heroku
 
-[Friend-Finder](https://aqueous-atoll-65786.herokuapp.com/api/friends)
+[Friend-Finder](https://shrouded-dawn-58709.herokuapp.com/)
